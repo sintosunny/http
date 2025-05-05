@@ -48,7 +48,7 @@ service:
   # -- Service type
   type: ClusterIP
   # -- Service port
-  port: 800
+  port: 80
 
 ingress:
   # -- Specifies whether the ingress should be created
